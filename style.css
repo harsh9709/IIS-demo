@@ -1,0 +1,16 @@
+body{
+    background-color: cornflowerblue;
+    
+}
+div{
+    height: fit-content;
+    width: auto;
+    background-color: aquamarine;
+    
+    border-radius: 20px;
+}
+h1:hover{
+    text-decoration: underline;
+    color: rgb(153, 148, 232);
+    cursor: pointer;
+}
